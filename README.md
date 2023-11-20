@@ -6,3 +6,4 @@
 4.for user intraction the website incorporates a contact section with a well designed form,allowing visitors to inquire about membership or request additional information.<br>
 *conclusion-<br>
 This project demonstrates the effective use of html and css to create a visually appealing ,user-centric platform for a website
+![Screenshot (1)](https://github.com/Abhishek-4612/GYMWEBSITE_USING_HTML_CSS/assets/148260200/4571ff2f-38c2-4410-879b-40d0e792ef2e)
